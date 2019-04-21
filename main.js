@@ -418,7 +418,7 @@ Object(_angular_platform_browser_dynamic__WEBPACK_IMPORTED_MODULE_2__["platformB
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! E:\test\spotlight\src\main.ts */"./src/main.ts");
+module.exports = __webpack_require__(/*! C:\Users\Saurabh\Angular\spotlight\ngApp\spotlight\src\main.ts */"./src/main.ts");
 
 
 /***/ })
